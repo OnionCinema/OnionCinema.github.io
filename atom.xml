@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onioncinema.github.io/</id>
     <title>OnionCInema&apos;s Blog</title>
-    <updated>2020-03-29T12:32:04.253Z</updated>
+    <updated>2020-03-29T18:19:31.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onioncinema.github.io/"/>
     <link rel="self" href="https://onioncinema.github.io/atom.xml"/>
@@ -10,4 +10,24 @@
     <logo>https://onioncinema.github.io/images/avatar.png</logo>
     <icon>https://onioncinema.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, OnionCInema&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[字幕更新日志（更新至2020-03-29）]]></title>
+        <id>https://onioncinema.github.io/post/zi-mu-geng-xin-ri-zhi-geng-xin-zhi-2020-03-29/</id>
+        <link href="https://onioncinema.github.io/post/zi-mu-geng-xin-ri-zhi-geng-xin-zhi-2020-03-29/">
+        </link>
+        <updated>2020-03-29T11:10:04.000Z</updated>
+        <content type="html"><![CDATA[<p>1.0<br>
+字体：仿宋 字号：40</p>
+<p>字幕更新1.1版本：<br>
+字体改为幼黑 字号改为45</p>
+<p>字幕更新1.2版本：<br>
+字体改为华文细黑</p>
+<p>字幕更新1.3版本：<br>
+字幕字号改为40 垂直高度改为40<br>
+添加绿色注释字幕</p>
+<p>字母更新1.41版本：<br>
+字幕字号改为45 并加粗<br>
+注释字幕改为等线 粗体 斜体 下划线 字号为30号 并置顶</p>
+]]></content>
+    </entry>
 </feed>
