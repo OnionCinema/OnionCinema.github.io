@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onioncinema.github.io/</id>
-    <title>OnionCinema&apos;s Blog</title>
-    <updated>2020-09-28T12:25:00.617Z</updated>
+    <title>葵</title>
+    <updated>2020-09-28T12:27:56.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onioncinema.github.io/"/>
     <link rel="self" href="https://onioncinema.github.io/atom.xml"/>
-    <subtitle>一个留学生的生活记录</subtitle>
+    <subtitle>记录我的一切</subtitle>
     <logo>https://onioncinema.github.io/images/avatar.png</logo>
     <icon>https://onioncinema.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, OnionCinema&apos;s Blog</rights>
+    <rights>All rights reserved 2020, 葵</rights>
     <entry>
         <title type="html"><![CDATA[字幕更新日志（更新至2020-03-29）]]></title>
         <id>https://onioncinema.github.io/post/zi-mu-geng-xin-ri-zhi-geng-xin-zhi-2020-03-29/</id>
