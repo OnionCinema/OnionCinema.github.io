@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onioncinema.github.io/</id>
     <title>葵</title>
-    <updated>2020-09-30T15:07:39.067Z</updated>
+    <updated>2020-10-04T14:24:28.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onioncinema.github.io/"/>
     <link rel="self" href="https://onioncinema.github.io/atom.xml"/>
@@ -10,6 +10,34 @@
     <logo>https://onioncinema.github.io/images/avatar.png</logo>
     <icon>https://onioncinema.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 葵</rights>
+    <entry>
+        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.10.03]]></title>
+        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201003/</id>
+        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201003/">
+        </link>
+        <updated>2020-10-03T04:50:39.000Z</updated>
+        <content type="html"><![CDATA[<p>起始分数:2659<br>
+1.黄龙3 (+300)<br>
+2.树人4 (+300)<br>
+3.女巴2 (+300)<br>
+4.乔治8 (-59) (掉线)<br>
+5.巫妖王6 (+0)<br>
+6.苔丝6 (+0)<br>
+7.大螺丝</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.10.1]]></title>
+        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-2020101/</id>
+        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-2020101/">
+        </link>
+        <updated>2020-10-01T06:19:37.000Z</updated>
+        <content type="html"><![CDATA[<p>起始分数：1804<br>
+1.巫妖王3 (+300)<br>
+2.大螺丝2 (+300) 2404<br>
+3.拉法6 (-45)</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日记 2020.09.30]]></title>
         <id>https://onioncinema.github.io/post/ri-ji-20200930/</id>
