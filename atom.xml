@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onioncinema.github.io/</id>
     <title>葵</title>
-    <updated>2020-10-06T14:37:19.314Z</updated>
+    <updated>2020-10-06T14:40:12.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onioncinema.github.io/"/>
     <link rel="self" href="https://onioncinema.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://onioncinema.github.io/images/avatar.png</logo>
     <icon>https://onioncinema.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 葵</rights>
+    <entry>
+        <title type="html"><![CDATA[日记 2020.10.06]]></title>
+        <id>https://onioncinema.github.io/post/ri-ji-20201006/</id>
+        <link href="https://onioncinema.github.io/post/ri-ji-20201006/">
+        </link>
+        <updated>2020-10-06T14:37:23.000Z</updated>
+        <content type="html"><![CDATA[<p>几天是第一次老师面对面的授课，学的还不算是特别难，同学至少现在看起来还很友好，只是后半节课我的信号一直不是太好，也有很多同学压根没进的去课堂，希望后面能好一些吧。</p>
+<p>把很多social media都清理了一下，舒服多了，虽然不能再像之前一样一直看了。</p>
+<p>不知道为什么jessie一直不理我，但是朋友圈却会点赞，奇怪的女人。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[酒馆战棋战绩记录 2020.10.06]]></title>
         <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201006/</id>
