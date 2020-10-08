@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onioncinema.github.io/</id>
     <title>葵</title>
-    <updated>2020-10-07T16:10:29.917Z</updated>
+    <updated>2020-10-08T03:45:00.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onioncinema.github.io/"/>
     <link rel="self" href="https://onioncinema.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://onioncinema.github.io/images/avatar.png</logo>
     <icon>https://onioncinema.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 葵</rights>
+    <entry>
+        <title type="html"><![CDATA[酒馆战棋战绩记录2020.10.08]]></title>
+        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201008/</id>
+        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201008/">
+        </link>
+        <updated>2020-10-08T02:30:12.000Z</updated>
+        <content type="html"><![CDATA[<p>欧服<br>
+起始分数：5542<br>
+1.菌菇6 (-36)<br>
+2.红龙1 (+300)</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日记 2020.10.07]]></title>
         <id>https://onioncinema.github.io/post/ri-ji-20201007/</id>
@@ -127,28 +139,6 @@
         <updated>2020-09-30T14:58:41.000Z</updated>
         <content type="html"><![CDATA[<p>今天酒馆战棋的分数重置了，只要前四就可以加300分，我觉得这个机制实在是妙啊，不但可以试试新的英雄和体系，被演了心态也不会崩，总之我挺喜欢这个改动的，就是没有奖励。</p>
 <p>明天开始就要课要上了，虽然没有重要的课程，但是我内心的某种感觉越来越强烈，这种感觉很复杂，有恐惧，有兴奋，还有些说不清道不明的东西，但不安感还是占据了大部分...希望未来一切都好吧。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.09.30]]></title>
-        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20200930/</id>
-        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20200930/">
-        </link>
-        <updated>2020-09-30T06:21:27.000Z</updated>
-        <content type="html"><![CDATA[<p>起始：0<br>
-1.苔丝7 (+0)<br>
-2.奥拉基4 (+299)<br>
-3.拉法6 (+0)<br>
-4.树人4 (+0)<br>
-5.死亡之翼1 (+300)<br>
-6.玛维5 (+5)<br>
-7.大螺丝8 (+0)<br>
-8.玛维1 (+300)<br>
-9.玛维1 (+300)<br>
-10.玛维1 (+300)<br>
-11.玛维5 (+0)<br>
-12.大螺丝2 (+300)<br>
-13.树人5 (+0)</p>
 ]]></content>
     </entry>
 </feed>
