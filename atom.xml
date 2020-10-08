@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onioncinema.github.io/</id>
     <title>葵</title>
-    <updated>2020-10-08T03:45:00.840Z</updated>
+    <updated>2020-10-08T14:58:51.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onioncinema.github.io/"/>
     <link rel="self" href="https://onioncinema.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://onioncinema.github.io/images/avatar.png</logo>
     <icon>https://onioncinema.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 葵</rights>
+    <entry>
+        <title type="html"><![CDATA[日记 2020.10.08]]></title>
+        <id>https://onioncinema.github.io/post/ri-ji-20201008/</id>
+        <link href="https://onioncinema.github.io/post/ri-ji-20201008/">
+        </link>
+        <updated>2020-10-08T14:57:16.000Z</updated>
+        <content type="html"><![CDATA[<p>真的不太喜欢tv这门课，不明白为什么学什么学校总会塞给你一门不相关的课，真的是浪费精力。明天就要抽血了，明天也打算把bujo做一下，一切都会好起来的，加油！</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[酒馆战棋战绩记录2020.10.08]]></title>
         <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201008/</id>
@@ -19,7 +28,9 @@
         <content type="html"><![CDATA[<p>欧服<br>
 起始分数：5542<br>
 1.菌菇6 (-36)<br>
-2.红龙1 (+300)</p>
+2.红龙1 (+300)<br>
+3.死亡之翼7 (-79)<br>
+4.巫妖王1 (+300)</p>
 ]]></content>
     </entry>
     <entry>
@@ -129,16 +140,6 @@
 1.巫妖王3 (+300)<br>
 2.大螺丝2 (+300) 2404<br>
 3.拉法6 (-45)</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日记 2020.09.30]]></title>
-        <id>https://onioncinema.github.io/post/ri-ji-20200930/</id>
-        <link href="https://onioncinema.github.io/post/ri-ji-20200930/">
-        </link>
-        <updated>2020-09-30T14:58:41.000Z</updated>
-        <content type="html"><![CDATA[<p>今天酒馆战棋的分数重置了，只要前四就可以加300分，我觉得这个机制实在是妙啊，不但可以试试新的英雄和体系，被演了心态也不会崩，总之我挺喜欢这个改动的，就是没有奖励。</p>
-<p>明天开始就要课要上了，虽然没有重要的课程，但是我内心的某种感觉越来越强烈，这种感觉很复杂，有恐惧，有兴奋，还有些说不清道不明的东西，但不安感还是占据了大部分...希望未来一切都好吧。</p>
 ]]></content>
     </entry>
 </feed>
