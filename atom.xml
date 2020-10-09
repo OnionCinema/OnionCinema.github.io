@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onioncinema.github.io/</id>
     <title>葵</title>
-    <updated>2020-10-09T16:00:16.989Z</updated>
+    <updated>2020-10-09T16:17:33.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onioncinema.github.io/"/>
     <link rel="self" href="https://onioncinema.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://onioncinema.github.io/images/avatar.png</logo>
     <icon>https://onioncinema.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 葵</rights>
+    <entry>
+        <title type="html"><![CDATA[日记 2020.10.09]]></title>
+        <id>https://onioncinema.github.io/post/ri-ji-20201009/</id>
+        <link href="https://onioncinema.github.io/post/ri-ji-20201009/">
+        </link>
+        <updated>2020-10-09T16:14:49.000Z</updated>
+        <content type="html"><![CDATA[<p>今天去复诊，又花了我500，我真的没话可说了，药还是要继续吃，哎，真的不知道什么时候是头。</p>
+<p>今天欧服下棋上了不少分，明天应该就能7000了。</p>
+<p>今天发了很多qq空间，哈哈，空间里的人好多啊。</p>
+<p>今天bujo还是没有做，老拖延症了，明天第一件事就做它</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[酒馆战棋战绩记录 2020.10.09]]></title>
         <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201009/</id>
@@ -135,22 +147,6 @@
         <content type="html"><![CDATA[<p>今天白天有半天都在路上，下午回来也没有闲着，去配了新的眼镜框，晚上又去找王骁和阿朱吃饭，这大概是今年最后一次和他们见面吧。</p>
 <p>在眼镜店的灯光下，眼镜框的颜色居然是黑色的，拿回家才发现居然是银色的，很不开心，在考虑之后出去要不要不戴眼镜了。</p>
 <p>今天下午头还一直在疼，大概是在车上睡的原因吧</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.10.03]]></title>
-        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201003/</id>
-        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201003/">
-        </link>
-        <updated>2020-10-03T04:50:39.000Z</updated>
-        <content type="html"><![CDATA[<p>起始分数:2659<br>
-1.黄龙3 (+300)<br>
-2.树人4 (+300)<br>
-3.女巴2 (+300)<br>
-4.乔治8 (-59) (掉线)<br>
-5.巫妖王6 (+0)<br>
-6.苔丝6 (+0)<br>
-7.大螺丝</p>
 ]]></content>
     </entry>
 </feed>
