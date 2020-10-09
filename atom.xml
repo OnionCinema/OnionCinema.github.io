@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onioncinema.github.io/</id>
     <title>葵</title>
-    <updated>2020-10-08T15:00:16.588Z</updated>
+    <updated>2020-10-09T16:00:16.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onioncinema.github.io/"/>
     <link rel="self" href="https://onioncinema.github.io/atom.xml"/>
@@ -10,6 +10,29 @@
     <logo>https://onioncinema.github.io/images/avatar.png</logo>
     <icon>https://onioncinema.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 葵</rights>
+    <entry>
+        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.10.09]]></title>
+        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201009/</id>
+        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201009/">
+        </link>
+        <updated>2020-10-09T09:44:25.000Z</updated>
+        <content type="html"><![CDATA[<p>欧服<br>
+起始分数:6027<br>
+1.拉法姆5 (-22)<br>
+2.女八7 (-5) 6000分<br>
+3.猫咪6 (+0)<br>
+4.拉法姆4 (+242)<br>
+5.帕奇斯8 (-93)<br>
+6.范克里夫4 (+118)<br>
+7.拉法姆8 (-65)<br>
+8.巫妖王2 (+300) 气死了，决赛三把高胜率团全输了<br>
+9.范克里夫3 (+164)<br>
+10.范克里夫6 (-37)<br>
+11.女八1 (+300)<br>
+12.雷诺5 (-3)<br>
+13.小猪6 (-56)</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日记 2020.10.08]]></title>
         <id>https://onioncinema.github.io/post/ri-ji-20201008/</id>
@@ -128,18 +151,6 @@
 5.巫妖王6 (+0)<br>
 6.苔丝6 (+0)<br>
 7.大螺丝</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.10.1]]></title>
-        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-2020101/</id>
-        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-2020101/">
-        </link>
-        <updated>2020-10-01T06:19:37.000Z</updated>
-        <content type="html"><![CDATA[<p>起始分数：1804<br>
-1.巫妖王3 (+300)<br>
-2.大螺丝2 (+300) 2404<br>
-3.拉法6 (-45)</p>
 ]]></content>
     </entry>
 </feed>
