@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onioncinema.github.io/</id>
     <title>葵</title>
-    <updated>2020-10-09T16:17:33.776Z</updated>
+    <updated>2020-10-11T10:33:43.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onioncinema.github.io/"/>
     <link rel="self" href="https://onioncinema.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://onioncinema.github.io/images/avatar.png</logo>
     <icon>https://onioncinema.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 葵</rights>
+    <entry>
+        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.10.10]]></title>
+        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201010/</id>
+        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201010/">
+        </link>
+        <updated>2020-10-10T02:10:53.000Z</updated>
+        <content type="html"><![CDATA[<p>欧服<br>
+起始分数：6870<br>
+1.女巴5 (-8)<br>
+2.赌博哥2 (+281)<br>
+3.诺兹多姆7 (-52)<br>
+4.雷诺7 (-64)<br>
+5.拉法姆2 (+203)</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日记 2020.10.09]]></title>
         <id>https://onioncinema.github.io/post/ri-ji-20201009/</id>
@@ -136,17 +151,6 @@
         <content type="html"><![CDATA[<p>今天的录播课到现在我还不知道在哪里找...</p>
 <p>今天真的很开心，把花钱挽回的事和妈说了一遍，我以为她会责怪我，但她真的很贴心的原谅了我，还告诉我所有能用钱解决的事情都不算是大事，我真的很感激她。</p>
 <p>忽然很怀念过去在ipod的小屏幕上做所有事情的感觉，于是半夜起来翻箱倒柜，真的让我找到了，今晚充上电，明天就研究透它。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日记 2020.10.04]]></title>
-        <id>https://onioncinema.github.io/post/ri-ji-20201004/</id>
-        <link href="https://onioncinema.github.io/post/ri-ji-20201004/">
-        </link>
-        <updated>2020-10-04T14:25:07.000Z</updated>
-        <content type="html"><![CDATA[<p>今天白天有半天都在路上，下午回来也没有闲着，去配了新的眼镜框，晚上又去找王骁和阿朱吃饭，这大概是今年最后一次和他们见面吧。</p>
-<p>在眼镜店的灯光下，眼镜框的颜色居然是黑色的，拿回家才发现居然是银色的，很不开心，在考虑之后出去要不要不戴眼镜了。</p>
-<p>今天下午头还一直在疼，大概是在车上睡的原因吧</p>
 ]]></content>
     </entry>
 </feed>
