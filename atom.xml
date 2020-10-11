@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onioncinema.github.io/</id>
     <title>葵</title>
-    <updated>2020-10-11T10:33:43.736Z</updated>
+    <updated>2020-10-11T15:58:56.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onioncinema.github.io/"/>
     <link rel="self" href="https://onioncinema.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://onioncinema.github.io/images/avatar.png</logo>
     <icon>https://onioncinema.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 葵</rights>
+    <entry>
+        <title type="html"><![CDATA[日记 2020.10.12]]></title>
+        <id>https://onioncinema.github.io/post/ri-ji-20201012/</id>
+        <link href="https://onioncinema.github.io/post/ri-ji-20201012/">
+        </link>
+        <updated>2020-10-11T15:53:31.000Z</updated>
+        <content type="html"><![CDATA[<p>太好了家人们，这周末作业一点没写。</p>
+<p>子弹笔记框架建好了，内容一点没填。</p>
+<p>都怪炉石传说守望先锋实在太好玩了。</p>
+<p>明天开始，好好学习，回报约克大学。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[酒馆战棋战绩记录 2020.10.10]]></title>
         <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201010/</id>
@@ -140,17 +152,6 @@
 1.玛维2 (+300)<br>
 2.大螺丝5 (-5) 吃鸡局，加速器掉线<br>
 3.大螺丝1 (+300) 纯补偿局</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日记 2020.10.05]]></title>
-        <id>https://onioncinema.github.io/post/ri-ji-20201005/</id>
-        <link href="https://onioncinema.github.io/post/ri-ji-20201005/">
-        </link>
-        <updated>2020-10-05T14:13:21.000Z</updated>
-        <content type="html"><![CDATA[<p>今天的录播课到现在我还不知道在哪里找...</p>
-<p>今天真的很开心，把花钱挽回的事和妈说了一遍，我以为她会责怪我，但她真的很贴心的原谅了我，还告诉我所有能用钱解决的事情都不算是大事，我真的很感激她。</p>
-<p>忽然很怀念过去在ipod的小屏幕上做所有事情的感觉，于是半夜起来翻箱倒柜，真的让我找到了，今晚充上电，明天就研究透它。</p>
 ]]></content>
     </entry>
 </feed>
