@@ -2,14 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onioncinema.github.io/</id>
     <title>葵</title>
-    <updated>2020-10-11T15:58:56.611Z</updated>
+    <updated>2020-10-13T14:35:10.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onioncinema.github.io/"/>
     <link rel="self" href="https://onioncinema.github.io/atom.xml"/>
-    <subtitle>关于我的一切...</subtitle>
+    <subtitle>学着做一个温柔的机器人。</subtitle>
     <logo>https://onioncinema.github.io/images/avatar.png</logo>
     <icon>https://onioncinema.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 葵</rights>
+    <entry>
+        <title type="html"><![CDATA[日记 2020.10.13]]></title>
+        <id>https://onioncinema.github.io/post/ri-ji-20201013/</id>
+        <link href="https://onioncinema.github.io/post/ri-ji-20201013/">
+        </link>
+        <updated>2020-10-13T14:33:31.000Z</updated>
+        <content type="html"><![CDATA[<p>经过一番折磨之后还是决定用滴答清单来代替子弹笔记，要不然我买它会员干啥。</p>
+<p>半泽直树实在是太好看了，看样子好像会出第三季，期待！</p>
+<p>为什么过去的痕迹永远删不干净</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.10.13]]></title>
+        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201013/</id>
+        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201013/">
+        </link>
+        <updated>2020-10-13T02:47:43.000Z</updated>
+        <content type="html"><![CDATA[<p>欧服<br>
+起始分数:7230<br>
+1.玛维3 (+70)</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日记 2020.10.12]]></title>
         <id>https://onioncinema.github.io/post/ri-ji-20201012/</id>
@@ -129,29 +151,6 @@
 1.玛维6 (+0)<br>
 2.米尔豪斯3 (+299)<br>
 3.树人1 (+300)</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日记 2020.10.06]]></title>
-        <id>https://onioncinema.github.io/post/ri-ji-20201006/</id>
-        <link href="https://onioncinema.github.io/post/ri-ji-20201006/">
-        </link>
-        <updated>2020-10-06T14:37:23.000Z</updated>
-        <content type="html"><![CDATA[<p>几天是第一次老师面对面的授课，学的还不算是特别难，同学至少现在看起来还很友好，只是后半节课我的信号一直不是太好，也有很多同学压根没进的去课堂，希望后面能好一些吧。</p>
-<p>把很多social media都清理了一下，舒服多了，虽然不能再像之前一样一直看了。</p>
-<p>不知道为什么jessie一直不理我，但是朋友圈却会点赞，奇怪的女人。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.10.06]]></title>
-        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201006/</id>
-        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201006/">
-        </link>
-        <updated>2020-10-06T13:29:49.000Z</updated>
-        <content type="html"><![CDATA[<p>起始分数:4100<br>
-1.玛维2 (+300)<br>
-2.大螺丝5 (-5) 吃鸡局，加速器掉线<br>
-3.大螺丝1 (+300) 纯补偿局</p>
 ]]></content>
     </entry>
 </feed>
