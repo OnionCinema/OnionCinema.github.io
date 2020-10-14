@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onioncinema.github.io/</id>
     <title>葵</title>
-    <updated>2020-10-13T14:35:10.428Z</updated>
+    <updated>2020-10-14T13:58:48.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onioncinema.github.io/"/>
     <link rel="self" href="https://onioncinema.github.io/atom.xml"/>
@@ -10,6 +10,27 @@
     <logo>https://onioncinema.github.io/images/avatar.png</logo>
     <icon>https://onioncinema.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 葵</rights>
+    <entry>
+        <title type="html"><![CDATA[日记 2020.10.14]]></title>
+        <id>https://onioncinema.github.io/post/ri-ji-20201014/</id>
+        <link href="https://onioncinema.github.io/post/ri-ji-20201014/">
+        </link>
+        <updated>2020-10-14T13:57:41.000Z</updated>
+        <content type="html"><![CDATA[<p>不知道为什么，今天真的是累的不行，cinema课上的电影也没看，人家在交流我只好听着，实在是蠢。不管怎么说，好好休息吧。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.10.14]]></title>
+        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201014/</id>
+        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201014/">
+        </link>
+        <updated>2020-10-14T12:25:05.000Z</updated>
+        <content type="html"><![CDATA[<p>欧服<br>
+起始分数:7300<br>
+1.拉法姆7 (-64)<br>
+2.芬利玛维2 (+141)</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日记 2020.10.13]]></title>
         <id>https://onioncinema.github.io/post/ri-ji-20201013/</id>
@@ -115,42 +136,6 @@
 2.红龙1 (+300)<br>
 3.死亡之翼7 (-79)<br>
 4.巫妖王1 (+300)</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日记 2020.10.07]]></title>
-        <id>https://onioncinema.github.io/post/ri-ji-20201007/</id>
-        <link href="https://onioncinema.github.io/post/ri-ji-20201007/">
-        </link>
-        <updated>2020-10-07T13:43:57.000Z</updated>
-        <content type="html"><![CDATA[<p>双节假期就只剩一天了，虽然说和我没什么关系，但还是希望大家能多玩几天。</p>
-<p>今天心情不是太好，但很稳定，没有发作的情况，战棋也上了不少分，虽然今天的英雄不是特别如意，但已经很棒了，发了很多把螺丝。</p>
-<p>今天第一次上cinema课，大家也都很好，虽然有两个人没有开摄像头哈哈。</p>
-<p>这几天依旧还是很困，明天一定要记得听录播课！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.10.07]]></title>
-        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201007/</id>
-        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201007/">
-        </link>
-        <updated>2020-10-07T07:09:40.000Z</updated>
-        <content type="html"><![CDATA[<p>欧服<br>
-起始分数:4695<br>
-1.大王4 (+247)<br>
-2.雷诺3 (+300)<br>
-3.刮痧哥6 (-7)<br>
-4.拉法姆1 (+300)<br>
-7.奥秘哥6 (-35)<br>
-8.刮痧哥4 (+167)<br>
-9.拉法姆6 (-24)<br>
-10.帕奇斯8 (-92)<br>
-11.大螺丝5 (-9)</p>
-<p>国服小号<br>
-起始分数：0<br>
-1.玛维6 (+0)<br>
-2.米尔豪斯3 (+299)<br>
-3.树人1 (+300)</p>
 ]]></content>
     </entry>
 </feed>
