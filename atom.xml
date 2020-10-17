@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onioncinema.github.io/</id>
     <title>葵</title>
-    <updated>2020-10-17T02:23:02.358Z</updated>
+    <updated>2020-10-17T15:34:47.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onioncinema.github.io/"/>
     <link rel="self" href="https://onioncinema.github.io/atom.xml"/>
@@ -11,6 +11,17 @@
     <icon>https://onioncinema.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 葵</rights>
     <entry>
+        <title type="html"><![CDATA[日记 2020.10.17]]></title>
+        <id>https://onioncinema.github.io/post/ri-ji-20201017/</id>
+        <link href="https://onioncinema.github.io/post/ri-ji-20201017/">
+        </link>
+        <updated>2020-10-17T15:32:33.000Z</updated>
+        <content type="html"><![CDATA[<p>今天酒馆战棋快要气死我把把10%输，把把碰不出东西，连续速八了三把，还是刺客信条好玩。</p>
+<p>10.22炉石新版本发布会，据说是个大版本，期待！</p>
+<p>爸周日又想带我出去玩，我只是单纯的不想，真的。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[酒馆战棋战绩记录 2020.10.17]]></title>
         <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201017/</id>
         <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201017/">
@@ -18,7 +29,13 @@
         <updated>2020-10-17T02:05:52.000Z</updated>
         <content type="html"><![CDATA[<p>欧服<br>
 起始分数:7519<br>
-1.树人8 (-85)</p>
+1.树人8 (-85)<br>
+2.拉法姆8 (-97)<br>
+3.女巴8 (-80)<br>
+4.冰龙7 (-65)<br>
+5.大王4 (+20)<br>
+6.玛维1 (+102)<br>
+7.雷诺6 (-25)</p>
 ]]></content>
     </entry>
     <entry>
@@ -117,18 +134,6 @@
         <content type="html"><![CDATA[<p>欧服<br>
 起始分数:7230<br>
 1.玛维3 (+70)</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日记 2020.10.12]]></title>
-        <id>https://onioncinema.github.io/post/ri-ji-20201012/</id>
-        <link href="https://onioncinema.github.io/post/ri-ji-20201012/">
-        </link>
-        <updated>2020-10-11T15:53:31.000Z</updated>
-        <content type="html"><![CDATA[<p>太好了家人们，这周末作业一点没写。</p>
-<p>子弹笔记框架建好了，内容一点没填。</p>
-<p>都怪炉石传说守望先锋实在太好玩了。</p>
-<p>明天开始，好好学习，回报约克大学。</p>
 ]]></content>
     </entry>
 </feed>
