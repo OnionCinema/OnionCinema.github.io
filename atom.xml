@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onioncinema.github.io/</id>
     <title>葵</title>
-    <updated>2020-10-15T17:52:03.556Z</updated>
+    <updated>2020-10-17T02:23:02.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onioncinema.github.io/"/>
     <link rel="self" href="https://onioncinema.github.io/atom.xml"/>
@@ -10,6 +10,47 @@
     <logo>https://onioncinema.github.io/images/avatar.png</logo>
     <icon>https://onioncinema.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 葵</rights>
+    <entry>
+        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.10.17]]></title>
+        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201017/</id>
+        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201017/">
+        </link>
+        <updated>2020-10-17T02:05:52.000Z</updated>
+        <content type="html"><![CDATA[<p>欧服<br>
+起始分数:7519<br>
+1.树人8 (-85)</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日记 2020.10.16]]></title>
+        <id>https://onioncinema.github.io/post/ri-ji-20201016/</id>
+        <link href="https://onioncinema.github.io/post/ri-ji-20201016/">
+        </link>
+        <updated>2020-10-16T15:55:43.000Z</updated>
+        <content type="html"><![CDATA[<p>哈哈哈哈，幻林真的好倒霉</p>
+<p>今天认真的玩了玩刺客信条：大革命，实在是太好玩了，就是不知道为什么我的电脑总是闪退，要不然估计我能玩一晚上。</p>
+<p>最近实在是没钱了，好想买方块逃脱系列，才15块，我却掏不出来，爸妈花的钱太多了，我也不好意思要。</p>
+<p>今天又感冒了，自从开始吃药之后我的身体好像一直不太好。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.10.16]]></title>
+        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201016/</id>
+        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201016/">
+        </link>
+        <updated>2020-10-16T07:27:15.000Z</updated>
+        <content type="html"><![CDATA[<p>欧服<br>
+起始分数:7474<br>
+1.女巴6 (-23)<br>
+2.树人2 (+69)<br>
+3.芬利玛维2 (+78)<br>
+4.时光龙7 (-66)<br>
+5.玛维5 （-8）<br>
+6.奥拉基尔8 (-87)<br>
+7.猫咪4 (+33)<br>
+8.冰龙3 (+49)</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日记 2020.10.15]]></title>
         <id>https://onioncinema.github.io/post/ri-ji-20201015/</id>
@@ -88,56 +129,6 @@
 <p>子弹笔记框架建好了，内容一点没填。</p>
 <p>都怪炉石传说守望先锋实在太好玩了。</p>
 <p>明天开始，好好学习，回报约克大学。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.10.10]]></title>
-        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201010/</id>
-        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201010/">
-        </link>
-        <updated>2020-10-10T02:10:53.000Z</updated>
-        <content type="html"><![CDATA[<p>欧服<br>
-起始分数：6870<br>
-1.女巴5 (-8)<br>
-2.赌博哥2 (+281)<br>
-3.诺兹多姆7 (-52)<br>
-4.雷诺7 (-64)<br>
-5.拉法姆2 (+203)</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日记 2020.10.09]]></title>
-        <id>https://onioncinema.github.io/post/ri-ji-20201009/</id>
-        <link href="https://onioncinema.github.io/post/ri-ji-20201009/">
-        </link>
-        <updated>2020-10-09T16:14:49.000Z</updated>
-        <content type="html"><![CDATA[<p>今天去复诊，又花了我500，我真的没话可说了，药还是要继续吃，哎，真的不知道什么时候是头。</p>
-<p>今天欧服下棋上了不少分，明天应该就能7000了。</p>
-<p>今天发了很多qq空间，哈哈，空间里的人好多啊。</p>
-<p>今天bujo还是没有做，老拖延症了，明天第一件事就做它</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.10.09]]></title>
-        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201009/</id>
-        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201009/">
-        </link>
-        <updated>2020-10-09T09:44:25.000Z</updated>
-        <content type="html"><![CDATA[<p>欧服<br>
-起始分数:6027<br>
-1.拉法姆5 (-22)<br>
-2.女八7 (-5) 6000分<br>
-3.猫咪6 (+0)<br>
-4.拉法姆4 (+242)<br>
-5.帕奇斯8 (-93)<br>
-6.范克里夫4 (+118)<br>
-7.拉法姆8 (-65)<br>
-8.巫妖王2 (+300) 气死了，决赛三把高胜率团全输了<br>
-9.范克里夫3 (+164)<br>
-10.范克里夫6 (-37)<br>
-11.女八1 (+300)<br>
-12.雷诺5 (-3)<br>
-13.小猪6 (-56)</p>
 ]]></content>
     </entry>
 </feed>
