@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onioncinema.github.io/</id>
     <title>葵</title>
-    <updated>2020-10-17T15:43:50.730Z</updated>
+    <updated>2020-10-18T15:55:12.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onioncinema.github.io/"/>
     <link rel="self" href="https://onioncinema.github.io/atom.xml"/>
@@ -10,6 +10,31 @@
     <logo>https://onioncinema.github.io/images/avatar.png</logo>
     <icon>https://onioncinema.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 葵</rights>
+    <entry>
+        <title type="html"><![CDATA[日记 2020.10.18]]></title>
+        <id>https://onioncinema.github.io/post/ri-ji-20201018/</id>
+        <link href="https://onioncinema.github.io/post/ri-ji-20201018/">
+        </link>
+        <updated>2020-10-18T15:51:13.000Z</updated>
+        <content type="html"><![CDATA[<p>今天的黄河之旅虽然没什么意思，但也没想象的那么糟糕，起码拍了些照片。</p>
+<p>今天爽死我了，下棋下了4把，全都上分了，还吃了两把（玛维永远的神）。</p>
+<p>刺客信条：大革命真的很好玩，后面难度上来了，一遍一遍的刷重复的东西就有点腻，不过这大概就是游戏吧。而且它的支线任务和需要探索的东西实在是太多了，我精力有限，而且我没有什么强迫症，只是去主线的路上遇到个事件打一下，碰到个宝箱开一下罢了，要真的一个个地图全探索完，不知道要玩到猴年马月。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.10.18]]></title>
+        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201018/</id>
+        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201018/">
+        </link>
+        <updated>2020-10-18T14:18:40.000Z</updated>
+        <content type="html"><![CDATA[<p>欧服<br>
+起始分数:7289<br>
+1.雷诺3 (+20)<br>
+2.女巴4 (+5)<br>
+3.树人1 (+104)<br>
+4.玛维1 (+102)</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日记 2020.10.17]]></title>
         <id>https://onioncinema.github.io/post/ri-ji-20201017/</id>
@@ -113,28 +138,6 @@
 起始分数:7300<br>
 1.拉法姆7 (-64)<br>
 2.芬利玛维2 (+141)</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日记 2020.10.13]]></title>
-        <id>https://onioncinema.github.io/post/ri-ji-20201013/</id>
-        <link href="https://onioncinema.github.io/post/ri-ji-20201013/">
-        </link>
-        <updated>2020-10-13T14:33:31.000Z</updated>
-        <content type="html"><![CDATA[<p>经过一番折磨之后还是决定用滴答清单来代替子弹笔记，要不然我买它会员干啥。</p>
-<p>半泽直树实在是太好看了，看样子好像会出第三季，期待！</p>
-<p>为什么过去的痕迹永远删不干净</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.10.13]]></title>
-        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201013/</id>
-        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201013/">
-        </link>
-        <updated>2020-10-13T02:47:43.000Z</updated>
-        <content type="html"><![CDATA[<p>欧服<br>
-起始分数:7230<br>
-1.玛维3 (+70)</p>
 ]]></content>
     </entry>
 </feed>
