@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onioncinema.github.io/</id>
     <title>葵</title>
-    <updated>2020-10-19T15:45:07.966Z</updated>
+    <updated>2020-10-20T14:24:03.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onioncinema.github.io/"/>
     <link rel="self" href="https://onioncinema.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://onioncinema.github.io/images/avatar.png</logo>
     <icon>https://onioncinema.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 葵</rights>
+    <entry>
+        <title type="html"><![CDATA[日记 2020.10.20]]></title>
+        <id>https://onioncinema.github.io/post/ri-ji-20201020/</id>
+        <link href="https://onioncinema.github.io/post/ri-ji-20201020/">
+        </link>
+        <updated>2020-10-20T14:23:16.000Z</updated>
+        <content type="html"><![CDATA[<p>I just feel so tired...</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日记 2020.10.19]]></title>
         <id>https://onioncinema.github.io/post/ri-ji-20201019/</id>
@@ -133,21 +142,6 @@
         <updated>2020-10-15T16:50:38.000Z</updated>
         <content type="html"><![CDATA[<p>今天一天几乎都用来整tv的作业了，真的太多了，下周的一定早点写。</p>
 <p>过去的痕迹总是删不完，每次你清空了，都能在下个转角看到。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.10.15]]></title>
-        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201015/</id>
-        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201015/">
-        </link>
-        <updated>2020-10-15T14:56:54.000Z</updated>
-        <content type="html"><![CDATA[<p>欧服<br>
-起始分数: 7377<br>
-1.玛维5 (-10)<br>
-2.拉法姆7 (-65)<br>
-3.米尔菲斯3 (+70)<br>
-4.猫咪6 (-36)<br>
-5.拉法姆1 (+138)</p>
 ]]></content>
     </entry>
 </feed>
