@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onioncinema.github.io/</id>
     <title>葵</title>
-    <updated>2020-10-20T14:24:40.255Z</updated>
+    <updated>2020-10-22T15:42:03.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onioncinema.github.io/"/>
     <link rel="self" href="https://onioncinema.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://onioncinema.github.io/images/avatar.png</logo>
     <icon>https://onioncinema.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 葵</rights>
+    <entry>
+        <title type="html"><![CDATA[日记 2020.10.22]]></title>
+        <id>https://onioncinema.github.io/post/ri-ji-20201022/</id>
+        <link href="https://onioncinema.github.io/post/ri-ji-20201022/">
+        </link>
+        <updated>2020-10-22T15:41:09.000Z</updated>
+        <content type="html"><![CDATA[<p>i just dont give it a fuck.</p>
+<p>i just wanna smoke bitches</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日记 2020.10.20]]></title>
         <id>https://onioncinema.github.io/post/ri-ji-20201020/</id>
@@ -132,16 +142,6 @@
 6.奥拉基尔8 (-87)<br>
 7.猫咪4 (+33)<br>
 8.冰龙3 (+49)</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日记 2020.10.15]]></title>
-        <id>https://onioncinema.github.io/post/ri-ji-20201015/</id>
-        <link href="https://onioncinema.github.io/post/ri-ji-20201015/">
-        </link>
-        <updated>2020-10-15T16:50:38.000Z</updated>
-        <content type="html"><![CDATA[<p>今天一天几乎都用来整tv的作业了，真的太多了，下周的一定早点写。</p>
-<p>过去的痕迹总是删不完，每次你清空了，都能在下个转角看到。</p>
 ]]></content>
     </entry>
 </feed>
