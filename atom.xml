@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onioncinema.github.io/</id>
     <title>葵</title>
-    <updated>2020-10-24T14:24:37.027Z</updated>
+    <updated>2020-10-26T15:42:14.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onioncinema.github.io/"/>
     <link rel="self" href="https://onioncinema.github.io/atom.xml"/>
@@ -10,6 +10,49 @@
     <logo>https://onioncinema.github.io/images/avatar.png</logo>
     <icon>https://onioncinema.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 葵</rights>
+    <entry>
+        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.10.26]]></title>
+        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201026/</id>
+        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201026/">
+        </link>
+        <updated>2020-10-26T05:11:32.000Z</updated>
+        <content type="html"><![CDATA[<p>欧服<br>
+起始分数:7737<br>
+1.大螺丝3 巫妖王和米尔豪斯好兄弟让我在八费就把技能做完了，可是冰龙和巫妖王实在是人上人(+40)<br>
+2.米尔豪斯5 啥也不是(-28)<br>
+3.奥拉基尔3 走地小鱼(+28)<br>
+4.大螺丝7 团烂到了一定程度(-55)<br>
+5.范克里夫5 鸡杂苟活，最后一手还菜了(-43)<br>
+6.米尔豪斯2 整双拉格，奈何最后输了凯子一个先手(+69)<br>
+7.阿兰娜4 二本元素，真的牛逼，可惜遇到了神仙(-14)<br>
+8.雷诺6 走投无路玩鸡杂，点金掘金很无奈(-43)<br>
+9.逐星4 弟弟光牙(+8)<br>
+10.女巴8 掉线了nmd<br>
+11.女巴1 95红衣卡雷，补偿上一把(+98)<br>
+12.米尔豪斯3 全是神仙(+28)<br>
+13.阿凯7 偶遇道友前方渡劫(-60)<br>
+14.巫妖王3 金子嗣瑞文(+23)<br>
+15.玛维1 速本双碰六 玛维=神(+98)<br>
+16.女巴7 36.6出局(-71)<br>
+17.女巴5 经典三对(-14)<br>
+18.巫妖5 糯米太晚(-14)<br>
+19.沙德沃克7 白板(-85)<br>
+20.米尔豪斯7 行吧(-73)<br>
+21.雷诺4 鸡杂转龙(+27)<br>
+22.大王2 烂分的王(+70)</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日记 2020.10.25]]></title>
+        <id>https://onioncinema.github.io/post/ri-ji-20201025/</id>
+        <link href="https://onioncinema.github.io/post/ri-ji-20201025/">
+        </link>
+        <updated>2020-10-25T15:32:13.000Z</updated>
+        <content type="html"><![CDATA[<p>还有5天我就要出发了，真的很舍不得家人们。</p>
+<p>我已经三天没有吃药了，状态比我想象的要好很多，希望后面不会再发病。</p>
+<p>有些问题始终没有答案，我最近需要多读书。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日记 2020.10.24]]></title>
         <id>https://onioncinema.github.io/post/ri-ji-20201024/</id>
@@ -116,31 +159,6 @@
 8.拉法姆4 (+19)<br>
 9.女巴8 掉线了<br>
 10.玛维2 (+67)</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日记 2020.10.18]]></title>
-        <id>https://onioncinema.github.io/post/ri-ji-20201018/</id>
-        <link href="https://onioncinema.github.io/post/ri-ji-20201018/">
-        </link>
-        <updated>2020-10-18T15:51:13.000Z</updated>
-        <content type="html"><![CDATA[<p>今天的黄河之旅虽然没什么意思，但也没想象的那么糟糕，起码拍了些照片。</p>
-<p>今天爽死我了，下棋下了4把，全都上分了，还吃了两把（玛维永远的神）。</p>
-<p>刺客信条：大革命真的很好玩，后面难度上来了，一遍一遍的刷重复的东西就有点腻，不过这大概就是游戏吧。而且它的支线任务和需要探索的东西实在是太多了，我精力有限，而且我没有什么强迫症，只是去主线的路上遇到个事件打一下，碰到个宝箱开一下罢了，要真的一个个地图全探索完，不知道要玩到猴年马月。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.10.18]]></title>
-        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201018/</id>
-        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201018/">
-        </link>
-        <updated>2020-10-18T14:18:40.000Z</updated>
-        <content type="html"><![CDATA[<p>欧服<br>
-起始分数:7289<br>
-1.雷诺3 (+20)<br>
-2.女巴4 (+5)<br>
-3.树人1 (+104)<br>
-4.玛维1 (+102)</p>
 ]]></content>
     </entry>
 </feed>
