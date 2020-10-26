@@ -25,7 +25,7 @@
 
   </head>
   <body>
-    <div id="app" class="main px-4 flex flex-col lg:flex-row">
+    <div class="main px-4 flex flex-col lg:flex-row">
       <div id="sidebar" class="sidebar-wrapper lg:static lg:w-1/4">
   <div class="lg:sticky top-0">
     <div class="sidebar-content">
@@ -39,9 +39,49 @@
       
         <div class="animated fadeInLeft" style="animation-delay: 0.4s">
           <p class="my-4 text-gray-600 font-light hidden lg:block">
-            文章目录
+            学着做一个温柔的机器人。
           </p>
-          <div class="toc-container hidden lg:block">
+          <div class="animated fadeInLeft social-container hidden lg:block" style="animation-delay: 0.6s">
+            
+              
+                <a href="https://github.com/OnionCinema" target="_blank" class="mr-4 text-xl text-gray-400 font-light hover:text-gray-900">
+                  <i class="ri-github-line"></i>
+                </a>
+              
+            
+              
+                <a href="https://twitter.com/OnionCinema" target="_blank" class="mr-4 text-xl text-gray-400 font-light hover:text-gray-900">
+                  <i class="ri-twitter-line"></i>
+                </a>
+              
+            
+              
+                <a href="https://www.weibo.com/5495230468/profile?rightmod=1&amp;wvr=6&amp;mod=personinfo" target="_blank" class="mr-4 text-xl text-gray-400 font-light hover:text-gray-900">
+                  <i class="ri-weibo-line"></i>
+                </a>
+              
+            
+              
+                <a href="https://www.zhihu.com/people/wdx-olsen" target="_blank" class="mr-4 text-xl text-gray-400 font-light hover:text-gray-900">
+                  <i class="ri-zhihu-line"></i>
+                </a>
+              
+            
+              
+            
+              
+            
+              
+            
+              
+                <a href="https://www.instagram.com/onioncinema233/" target="_blank" class="mr-4 text-xl text-gray-400 font-light hover:text-gray-900">
+                  <i class="ri-instagram-line"></i>
+                </a>
+              
+            
+              
+            
+              
             
           </div>
         </div>
@@ -80,53 +120,37 @@
 </div>
 <div class="mask" onclick="closeMenu()">
 </div>
-      <div class="content-wrapper py-32 lg:p-8 lg:w-3/4 post-detail animated fadeIn">
-        <h1 class="text-3xl font-bold lg:mt-16">酒馆战棋战绩记录 2020.10.23</h1>
-        <div class="text-sm text-gray-700 lg:my-8">
-          2020-10-23 / 1 min read
-        </div>
+      <div class="content-wrapper py-32 lg:p-8 lg:w-3/4">
+        <h2 class="latest-article text-lg text-gray-700 mb-8">
+          <i class="ri-article-line"></i>
+          最新文章
+        </h2>
         
-        <div class="post-content yue">
-          <p>欧服<br>
-起始分数:7596<br>
-1.塔子哥2 九费糯米(+71)<br>
-2.米尔豪斯2 元素杂毛(+71)</p>
-
-        </div>
-
+  <section class="post-item md:flex pb-12 animated fadeIn" :style="{ 'animation-delay': `${0 * 0.2}s` }">
+    
+    <div class="content">
+      <a href="https://onioncinema.github.io/post/zi-mu-geng-xin-ri-zhi-geng-xin-zhi-2020-03-29/">
+        <h2 class="post-title text-xl font-extrabold mt-5 md:mt-0">字幕更新日志（更新至2020-03-29）</h2>
+      </a>
+      <div class="post-abstract text-gray-700 font-light my-4">
         
-          <a class="animated fadeInUp p-2 items-center text-sm text-gray-700 border hover:bg-gray-300 leading-none rounded-full flex lg:inline-flex m-4 " href="https://onioncinema.github.io/tag/agNKKzBeT/">
-            <span class="flex-auto">炉石传说</span>
-          </a>
-        
+      </div>
+      <div class="text-gray-400 text-sm font-light">2020-03-29 / 1 min read</div>
+    </div>
+  </section>
 
-
-        <div class="flex justify-between py-8">
-          
-            <div class="prev-post">
-              <a href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201024/">
-                <h3 class="post-title">
-                  <i class="ri-arrow-left-line"></i>
-                  酒馆战棋战绩记录 2020.10.24
-                </h3>
-              </a>
-            </div>
-          
-
-          
-            <div class="next-post">
-              <a href="https://onioncinema.github.io/post/ri-ji-20201023/">
-                <h3 class="post-title">
-                  日记 2020.10.23
-                  <i class="ri-arrow-right-line"></i>
-                </h3>
-              </a>
-            </div>
+        <div class="read-more">
           
         </div>
+        <div class="index-page">
+          <div class="pagination-container animated fadeIn">
+  
+    <a href="https://onioncinema.github.io/page/4/" class="page-btn"><i class="ri-arrow-left-line"></i> 上一页</a>
+  
+  
+</div>
 
-        
-
+        </div>
       </div>
     </div>
 
