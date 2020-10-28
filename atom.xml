@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onioncinema.github.io/</id>
     <title>葵</title>
-    <updated>2020-10-27T15:43:49.701Z</updated>
+    <updated>2020-10-28T15:01:08.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onioncinema.github.io/"/>
     <link rel="self" href="https://onioncinema.github.io/atom.xml"/>
@@ -11,7 +11,33 @@
     <icon>https://onioncinema.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 葵</rights>
     <entry>
-        <title type="html"><![CDATA[2020.10.27]]></title>
+        <title type="html"><![CDATA[日记 2020.10.28]]></title>
+        <id>https://onioncinema.github.io/post/ri-ji-20201028/</id>
+        <link href="https://onioncinema.github.io/post/ri-ji-20201028/">
+        </link>
+        <updated>2020-10-28T14:59:57.000Z</updated>
+        <content type="html"><![CDATA[<p>今天去医院查了下，很有可能是颈椎病，我只能说你妹的。</p>
+<p>今天虽然打的少，但是上了好多好多分！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.10.28]]></title>
+        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201028/</id>
+        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201028/">
+        </link>
+        <updated>2020-10-28T03:26:45.000Z</updated>
+        <content type="html"><![CDATA[<p>欧服<br>
+起始分数:7579<br>
+1.导演2 稳扎稳打，结果树人高胜率赢没打死，直接全责(+71)<br>
+2.猫咪1 四糯米(+100)<br>
+3.树人3 铜须糯米，托奇和鼠王是人上人(+29)<br>
+4.阿凯1 四糯米，六灯神，胡飞了(+98)<br>
+5.大螺丝2 铜须狂战(+70)<br>
+6.拉法姆6 真没办法，全是神仙(-13)</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日记 2020.10.27]]></title>
         <id>https://onioncinema.github.io/post/20201027/</id>
         <link href="https://onioncinema.github.io/post/20201027/">
         </link>
@@ -142,26 +168,6 @@
 起始分数:7596<br>
 1.塔子哥2 九费糯米(+71)<br>
 2.米尔豪斯2 元素杂毛(+71)</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日记 2020.10.23]]></title>
-        <id>https://onioncinema.github.io/post/ri-ji-20201023/</id>
-        <link href="https://onioncinema.github.io/post/ri-ji-20201023/">
-        </link>
-        <updated>2020-10-23T15:04:11.000Z</updated>
-        <content type="html"><![CDATA[<p>今天把最后的抗抑郁药也给吃完了，不知道我接下来还要不要吃，感觉对我的精神状态影响很大，对脑子好像也不太好。</p>
-<p>今天含着泪把删掉的游戏下了回来，又买了饥荒，听说可以赚钱，所以打算明天认真玩一玩:)</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日记 2020.10.22]]></title>
-        <id>https://onioncinema.github.io/post/ri-ji-20201022/</id>
-        <link href="https://onioncinema.github.io/post/ri-ji-20201022/">
-        </link>
-        <updated>2020-10-22T15:41:09.000Z</updated>
-        <content type="html"><![CDATA[<p>i just dont give it a fuck.</p>
-<p>i just wanna smoke bitches</p>
 ]]></content>
     </entry>
 </feed>
