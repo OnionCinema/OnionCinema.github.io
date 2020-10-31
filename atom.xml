@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onioncinema.github.io/</id>
     <title>葵</title>
-    <updated>2020-10-29T15:27:43.077Z</updated>
+    <updated>2020-10-31T10:46:26.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onioncinema.github.io/"/>
     <link rel="self" href="https://onioncinema.github.io/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://onioncinema.github.io/images/avatar.png</logo>
     <icon>https://onioncinema.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 葵</rights>
+    <entry>
+        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.10.31]]></title>
+        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201031/</id>
+        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201031/">
+        </link>
+        <updated>2020-10-31T09:03:22.000Z</updated>
+        <content type="html"><![CDATA[<p>欧服<br>
+起始分数:7934<br>
+1.沙德沃克3 本来想整活，结果不发卡德加，后面转四本buff，这个结果很满意(+42)<br>
+2.雷诺3 金人气稳血量，碰五出糯米，四本玩元素(+56)<br>
+3.奥拉基5 没有核心(-13)<br>
+4.冰龙7 走弟鱼(-72)<br>
+5.女巴7 全员剧毒，小黄瑞文，9%出局(-73)</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日记 2020.10.29]]></title>
         <id>https://onioncinema.github.io/post/ri-ji-20201029/</id>
@@ -142,31 +157,6 @@
         <content type="html"><![CDATA[<p>今天下了一天的棋，结果还掉分了，怎么说呢，挺无奈的。</p>
 <p>今天爸妈居然真的去提了辆车，我以为他们会纠结很久，然后去很多家店，不过他们决定了也挺好的。</p>
 <p>今天忽然很想看加藤惠的直播，因为她真的好漂亮啊，一会一边洗澡一边看吧。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.10.24]]></title>
-        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201024/</id>
-        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201024/">
-        </link>
-        <updated>2020-10-24T07:38:27.000Z</updated>
-        <content type="html"><![CDATA[<p>欧服<br>
-起始分数:7738<br>
-1.巫妖王8 全是神仙(-85)<br>
-2.冰龙3 整活手速不够，太菜了(+26)<br>
-3.刮痧哥3 金粉掘金(+39)<br>
-4.猫咪3 喷子倒了(+41)<br>
-5.姐夫4 真不容易，团的真好(+13)<br>
-6.范克里夫6 没有野兽，没有机械，我玩大范，我是傻逼(-29)<br>
-7.米尔豪斯4 豪斯整活，真的不行，错过理财，我是真菜(+14)<br>
-8.凯子哥6 鲍勃你个混蛋,做人不讲义气。两个喷子给我，后面不发子弹(-30)<br>
-9.冰龙1 低调低调，实力如此。杂毛苟活，不在话下(+98)<br>
-10.猫咪6 不死吃了，哪来的60血的叶问(-28)<br>
-11.时光龙9 经典三对+湘西尸王，也不知道他怎么死的(-56)<br>
-12.芬利巫妖王6 没碰出东西，龙转杂毛苟活(-42)<br>
-13.芬利苔丝4 那我只能是说无奈了家人们(+14)<br>
-14.米尔豪斯1 玩龙的米尔豪斯，那我只能说无敌了家人们(+95)<br>
-15.雷诺7 偶遇神仙，属实无奈，开局金粉，没有烂分(-71)</p>
 ]]></content>
     </entry>
 </feed>
