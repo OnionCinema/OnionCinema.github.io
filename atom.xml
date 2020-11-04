@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onioncinema.github.io/</id>
     <title>葵</title>
-    <updated>2020-11-02T11:57:35.197Z</updated>
+    <updated>2020-11-04T22:32:18.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onioncinema.github.io/"/>
     <link rel="self" href="https://onioncinema.github.io/atom.xml"/>
@@ -11,11 +11,48 @@
     <icon>https://onioncinema.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 葵</rights>
     <entry>
+        <title type="html"><![CDATA[日记 2020.11.04]]></title>
+        <id>https://onioncinema.github.io/post/ri-ji-20201104/</id>
+        <link href="https://onioncinema.github.io/post/ri-ji-20201104/">
+        </link>
+        <updated>2020-11-04T14:30:54.000Z</updated>
+        <content type="html"><![CDATA[<p>今天和yuki打了一天的游戏，瓦洛兰特真他妈好玩</p>
+<p>tv课真的不想上</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日记 2020.11.03]]></title>
+        <id>https://onioncinema.github.io/post/ri-ji-20201103/</id>
+        <link href="https://onioncinema.github.io/post/ri-ji-20201103/">
+        </link>
+        <updated>2020-11-03T17:32:10.000Z</updated>
+        <content type="html"><![CDATA[<p>这几天都是赶作业赶到很晚，都忘记了写日记，从今天开始尽量不忘，哈哈哈哈哈</p>
+<p>周董的惊叹号这张专辑实在是太难听了</p>
+<p>story课终于参与进去了，但是这个写故事的作业也太难了</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[酒馆战棋战绩记录2020.11.03]]></title>
+        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201103/</id>
+        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201103/">
+        </link>
+        <updated>2020-11-03T01:32:31.000Z</updated>
+        <content type="html"><![CDATA[<p>欧服<br>
+起始分数:7788<br>
+1.女巴8 整活不死吃了<br>
+2.玛维1 天降大任与斯人也(+90)<br>
+3.冰龙8 你妹的(-100)<br>
+4.阿凯4 五本元素(+14)<br>
+5.女巴8 草你妈，2.6%出局，80%多赢(-82)<br>
+6.玛维6 96双碰六(-42)</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[酒馆战棋战绩记录 2020.11.02]]></title>
         <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201102/</id>
         <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201102/">
         </link>
-        <updated>2020-11-01T22:46:40.000Z</updated>
+        <updated>2020-11-01T14:46:40.000Z</updated>
         <content type="html"><![CDATA[<p>欧服<br>
 起始分数:7682<br>
 1.米尔豪斯3 双加尔，感觉可以第二，沙德沃克人上人(+41)<br>
@@ -25,7 +62,15 @@
 5.黄龙4 鸡杂回到7777<br>
 6.拉法8 掉线<br>
 7.大螺丝3 拉格灯神(+42) 7721<br>
-8.米尔豪斯3 杂毛烂分</p>
+8.米尔豪斯3 杂毛烂分<br>
+9.大王5 团的还能再差一点吗(+1)<br>
+10.玛维4 95单熊妈野兽(-1)<br>
+11.阿兰娜8 就是菜(-96)<br>
+12.挖宝1 双金霍格，电表倒转(+98)<br>
+13.赌博哥6 好吧(-42)<br>
+14.猫咪7 39.3出局(-69)<br>
+15.大螺丝2 博弈失败(+66)<br>
+16.冰龙2 双拉格(+69)</p>
 ]]></content>
     </entry>
     <entry>
@@ -111,72 +156,6 @@
         </link>
         <updated>2020-10-27T15:42:44.000Z</updated>
         <content type="html"><![CDATA[<p>今天不知道怎么了精神很恍惚，也很累</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.10.27]]></title>
-        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201027/</id>
-        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201027/">
-        </link>
-        <updated>2020-10-27T02:12:16.000Z</updated>
-        <content type="html"><![CDATA[<p>欧服<br>
-起始分数:7626<br>
-1.猫咪6 开门红，走位极差(-70)<br>
-2.大螺丝6 发的牌和走位都是极差，天要亡我(-59)<br>
-3.玛维4 弟弟光牙(+28)<br>
-4.玛维2 95金拉佐卡雷，结果最后20.9输，8.6被抬走，直接tmd给我抬走了(+63)<br>
-5.树人2 满血95，铜须单卡微整(+69)<br>
-6.拉法姆5 有神仙(-29)<br>
-7.凯子哥6 铜须走弟鱼(-28)<br>
-8.玛维7 碰六速八(-85)<br>
-9.冰龙6 35血95被暴打(-44)<br>
-10.红龙7 85(-73)<br>
-11.姐夫3 金光牙(+41)<br>
-12.拉法姆1 双糯米双拉格(决战掉线了，但还是第一)<br>
-13.大螺丝3 两个人上人(+42)</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日记 2020.10.26]]></title>
-        <id>https://onioncinema.github.io/post/ri-ji-20201026/</id>
-        <link href="https://onioncinema.github.io/post/ri-ji-20201026/">
-        </link>
-        <updated>2020-10-26T15:42:24.000Z</updated>
-        <content type="html"><![CDATA[<p>今天也是没写作业的一天，明天八点起开始补作业。</p>
-<p>今天下棋掉分了，但是写了不少小作文。</p>
-<p>爸有的时候真的不靠谱</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.10.26]]></title>
-        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201026/</id>
-        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201026/">
-        </link>
-        <updated>2020-10-26T05:11:32.000Z</updated>
-        <content type="html"><![CDATA[<p>欧服<br>
-起始分数:7737<br>
-1.大螺丝3 巫妖王和米尔豪斯好兄弟让我在八费就把技能做完了，可是冰龙和巫妖王实在是人上人(+40)<br>
-2.米尔豪斯5 啥也不是(-28)<br>
-3.奥拉基尔3 走地小鱼(+28)<br>
-4.大螺丝7 团烂到了一定程度(-55)<br>
-5.范克里夫5 鸡杂苟活，最后一手还菜了(-43)<br>
-6.米尔豪斯2 整双拉格，奈何最后输了凯子一个先手(+69)<br>
-7.阿兰娜4 二本元素，真的牛逼，可惜遇到了神仙(-14)<br>
-8.雷诺6 走投无路玩鸡杂，点金掘金很无奈(-43)<br>
-9.逐星4 弟弟光牙(+8)<br>
-10.女巴8 掉线了nmd<br>
-11.女巴1 95红衣卡雷，补偿上一把(+98)<br>
-12.米尔豪斯3 全是神仙(+28)<br>
-13.阿凯7 偶遇道友前方渡劫(-60)<br>
-14.巫妖王3 金子嗣瑞文(+23)<br>
-15.玛维1 速本双碰六 玛维=神(+98)<br>
-16.女巴7 36.6出局(-71)<br>
-17.女巴5 经典三对(-14)<br>
-18.巫妖5 糯米太晚(-14)<br>
-19.沙德沃克7 白板(-85)<br>
-20.米尔豪斯7 行吧(-73)<br>
-21.雷诺4 鸡杂转龙(+27)<br>
-22.大王2 烂分的王(+70)</p>
 ]]></content>
     </entry>
 </feed>
