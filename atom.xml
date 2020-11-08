@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onioncinema.github.io/</id>
     <title>葵</title>
-    <updated>2020-11-08T00:13:44.942Z</updated>
+    <updated>2020-11-08T11:45:32.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onioncinema.github.io/"/>
     <link rel="self" href="https://onioncinema.github.io/atom.xml"/>
@@ -10,6 +10,27 @@
     <logo>https://onioncinema.github.io/images/avatar.png</logo>
     <icon>https://onioncinema.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 葵</rights>
+    <entry>
+        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.11.08]]></title>
+        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201108/</id>
+        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201108/">
+        </link>
+        <updated>2020-11-08T03:44:50.000Z</updated>
+        <content type="html"><![CDATA[<p>欧服<br>
+7386<br>
+1.玛维4<br>
+2.雷诺8<br>
+3.阿凯7<br>
+4.小猪7<br>
+5.女巴3<br>
+6.馆长7<br>
+7.菌菇6<br>
+8.女巴8<br>
+9.绿龙6<br>
+10.女巴4<br>
+11.jk1</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日记 2020.11.07]]></title>
         <id>https://onioncinema.github.io/post/ri-ji-20201107/</id>
@@ -133,32 +154,6 @@
 4.阿凯4 五本元素(+14)<br>
 5.女巴8 草你妈，2.6%出局，80%多赢(-82)<br>
 6.玛维6 96双碰六(-42)</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.11.02]]></title>
-        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201102/</id>
-        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201102/">
-        </link>
-        <updated>2020-11-01T14:46:40.000Z</updated>
-        <content type="html"><![CDATA[<p>欧服<br>
-起始分数:7682<br>
-1.米尔豪斯3 双加尔，感觉可以第二，沙德沃克人上人(+41)<br>
-2.米尔豪斯1 当神仙感觉真不戳(+96)<br>
-3.雷诺6 鸡杂金伯瓦尔(-58)<br>
-4.阿兰娜5 二本元素，烂分的神<br>
-5.黄龙4 鸡杂回到7777<br>
-6.拉法8 掉线<br>
-7.大螺丝3 拉格灯神(+42) 7721<br>
-8.米尔豪斯3 杂毛烂分<br>
-9.大王5 团的还能再差一点吗(+1)<br>
-10.玛维4 95单熊妈野兽(-1)<br>
-11.阿兰娜8 就是菜(-96)<br>
-12.挖宝1 双金霍格，电表倒转(+98)<br>
-13.赌博哥6 好吧(-42)<br>
-14.猫咪7 39.3出局(-69)<br>
-15.大螺丝2 博弈失败(+66)<br>
-16.冰龙2 双拉格(+69)</p>
 ]]></content>
     </entry>
 </feed>
