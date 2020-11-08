@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onioncinema.github.io/</id>
     <title>葵</title>
-    <updated>2020-11-06T22:14:32.040Z</updated>
+    <updated>2020-11-08T00:13:44.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onioncinema.github.io/"/>
     <link rel="self" href="https://onioncinema.github.io/atom.xml"/>
@@ -10,6 +10,37 @@
     <logo>https://onioncinema.github.io/images/avatar.png</logo>
     <icon>https://onioncinema.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 葵</rights>
+    <entry>
+        <title type="html"><![CDATA[日记 2020.11.07]]></title>
+        <id>https://onioncinema.github.io/post/ri-ji-20201107/</id>
+        <link href="https://onioncinema.github.io/post/ri-ji-20201107/">
+        </link>
+        <updated>2020-11-07T16:13:02.000Z</updated>
+        <content type="html"><![CDATA[<p>又是无所事事的一天，明天一定要冲了，不然就完蛋了...</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.11.07]]></title>
+        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201107/</id>
+        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201107/">
+        </link>
+        <updated>2020-11-07T01:00:22.000Z</updated>
+        <content type="html"><![CDATA[<p>欧服<br>
+起始分数:7409<br>
+1.小猪3 人气小龙杂，团好到爆炸(+41)<br>
+2.菌菇7 全员光牙，鱼也不发(-70)<br>
+3.女巴7 本该第一，我是傻逼<br>
+4.伊瑟拉7 你妈个逼，傻逼毒鱼(-69）<br>
+5.米尔豪斯6 豪斯整活，实在好活<br>
+6.女巴1 起手理财，弹融合怪(+98)<br>
+7.雷诺7 点金拉格，13出局(-88)<br>
+8.米尔豪斯4 烂分恶魔(+13)<br>
+9.女巴3 整活最强，湘西尸王<br>
+10.姐夫1 掘金光牙(+97)<br>
+11.米尔豪斯6 弟弟11费糯米(-42)<br>
+12.托瓦戈尔女王1 第一次玩，真他妈强(+94)</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日记 2020.11.06]]></title>
         <id>https://onioncinema.github.io/post/ri-ji-20201106/</id>
@@ -128,45 +159,6 @@
 14.猫咪7 39.3出局(-69)<br>
 15.大螺丝2 博弈失败(+66)<br>
 16.冰龙2 双拉格(+69)</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.11.01]]></title>
-        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201101/</id>
-        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201101/">
-        </link>
-        <updated>2020-11-01T06:44:17.000Z</updated>
-        <content type="html"><![CDATA[<p>欧服<br>
-起始分数:7874<br>
-1.小猪7 非常弟弟(-69)<br>
-2.女巴7 四本buff(-57)<br>
-3.树人7 7777777(-62)<br>
-4.红龙8 95暴毙<br>
-5.女巴7 遇到神仙，百分之13出局，呵呵(-71)<br>
-6.大螺丝4 四本鸡杂(+24)<br>
-7.树人1 大大大大大大大大元素(+98)<br>
-8.范克里夫3 巨型偏折，问心无愧(+42)<br>
-9.大螺丝2 双圣盾龙(+69)<br>
-10.凯子哥8 我好菜(-103)<br>
-11.大螺丝6 双偏折(-42)<br>
-12.巫妖王3 下毒失败(+43)<br>
-13.阿兰娜6 二本元素(-34)<br>
-14.姐夫3 掘金霍格(+38)</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.10.31]]></title>
-        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201031/</id>
-        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201031/">
-        </link>
-        <updated>2020-10-31T09:03:22.000Z</updated>
-        <content type="html"><![CDATA[<p>欧服<br>
-起始分数:7934<br>
-1.沙德沃克3 本来想整活，结果不发卡德加，后面转四本buff，这个结果很满意(+42)<br>
-2.雷诺3 金人气稳血量，碰五出糯米，四本玩元素(+56)<br>
-3.奥拉基5 没有核心(-13)<br>
-4.冰龙7 走弟鱼(-72)<br>
-5.女巴7 全员剧毒，小黄瑞文，9%出局(-73)</p>
 ]]></content>
     </entry>
 </feed>
