@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onioncinema.github.io/</id>
     <title>葵</title>
-    <updated>2020-11-09T10:24:24.409Z</updated>
+    <updated>2020-11-09T23:01:14.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onioncinema.github.io/"/>
     <link rel="self" href="https://onioncinema.github.io/atom.xml"/>
@@ -10,6 +10,41 @@
     <logo>https://onioncinema.github.io/images/avatar.png</logo>
     <icon>https://onioncinema.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 葵</rights>
+    <entry>
+        <title type="html"><![CDATA[日记 2020.11.09]]></title>
+        <id>https://onioncinema.github.io/post/ri-ji-20201109/</id>
+        <link href="https://onioncinema.github.io/post/ri-ji-20201109/">
+        </link>
+        <updated>2020-11-09T15:00:31.000Z</updated>
+        <content type="html"><![CDATA[<p>今天也是无所事事的一天，但我希望能有些改变。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.11.09]]></title>
+        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201109/</id>
+        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201109/">
+        </link>
+        <updated>2020-11-09T02:24:25.000Z</updated>
+        <content type="html"><![CDATA[<p>欧服<br>
+6944<br>
+1.女王4<br>
+2.jk6<br>
+3.女巴7<br>
+4.豪斯7<br>
+5.女巴1<br>
+6.树人1<br>
+7.拉法姆1<br>
+8.大王6<br>
+9.树人7<br>
+10.玛维8<br>
+11.女王2<br>
+12.豪斯4<br>
+13.沙德沃克8<br>
+14.大王3<br>
+15.女王5<br>
+16.苔丝2</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[日记 2020.11.08]]></title>
         <id>https://onioncinema.github.io/post/ri-ji-20201108/</id>
@@ -139,27 +174,6 @@
 9.勾牙7 新版勾牙，第七第八(-85)<br>
 10.帕姥爷3 掘金霍格，不敌融合(+28)<br>
 11.拉法姆7 打团不好，神仙补刀(-71)</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日记 2020.11.04]]></title>
-        <id>https://onioncinema.github.io/post/ri-ji-20201104/</id>
-        <link href="https://onioncinema.github.io/post/ri-ji-20201104/">
-        </link>
-        <updated>2020-11-04T14:30:54.000Z</updated>
-        <content type="html"><![CDATA[<p>今天和yuki打了一天的游戏，瓦洛兰特真他妈好玩</p>
-<p>tv课真的不想上</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日记 2020.11.03]]></title>
-        <id>https://onioncinema.github.io/post/ri-ji-20201103/</id>
-        <link href="https://onioncinema.github.io/post/ri-ji-20201103/">
-        </link>
-        <updated>2020-11-03T17:32:10.000Z</updated>
-        <content type="html"><![CDATA[<p>这几天都是赶作业赶到很晚，都忘记了写日记，从今天开始尽量不忘，哈哈哈哈哈</p>
-<p>周董的惊叹号这张专辑实在是太难听了</p>
-<p>story课终于参与进去了，但是这个写故事的作业也太难了</p>
 ]]></content>
     </entry>
 </feed>
