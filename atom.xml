@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onioncinema.github.io/</id>
     <title>葵</title>
-    <updated>2020-11-08T20:05:21.176Z</updated>
+    <updated>2020-11-09T10:24:24.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onioncinema.github.io/"/>
     <link rel="self" href="https://onioncinema.github.io/atom.xml"/>
@@ -11,11 +11,30 @@
     <icon>https://onioncinema.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 葵</rights>
     <entry>
+        <title type="html"><![CDATA[日记 2020.11.08]]></title>
+        <id>https://onioncinema.github.io/post/ri-ji-20201108/</id>
+        <link href="https://onioncinema.github.io/post/ri-ji-20201108/">
+        </link>
+        <updated>2020-11-08T14:30:07.000Z</updated>
+        <content type="html"><![CDATA[<p>孤独，孤独，还是孤独，当身边一无所有，唯一拥有的只有回忆。<br>
+痛苦，痛苦，还是痛苦，当回忆起过去的美好，当下的现实是如此的苍白。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日记 2020.11.07]]></title>
+        <id>https://onioncinema.github.io/post/ri-ji-20201107/</id>
+        <link href="https://onioncinema.github.io/post/ri-ji-20201107/">
+        </link>
+        <updated>2020-11-07T16:13:02.000Z</updated>
+        <content type="html"><![CDATA[<p>又是无所事事的一天，明天一定要冲了，不然就完蛋了...</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[酒馆战棋战绩记录 2020.11.08]]></title>
         <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201108/</id>
         <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201108/">
         </link>
-        <updated>2020-11-07T19:44:50.000Z</updated>
+        <updated>2020-11-07T03:44:50.000Z</updated>
         <content type="html"><![CDATA[<p>欧服<br>
 7386<br>
 1.玛维4<br>
@@ -35,16 +54,12 @@
 15.乔治8<br>
 16.豪斯6<br>
 17.伊利斯3<br>
-18.树人1</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日记 2020.11.07]]></title>
-        <id>https://onioncinema.github.io/post/ri-ji-20201107/</id>
-        <link href="https://onioncinema.github.io/post/ri-ji-20201107/">
-        </link>
-        <updated>2020-11-07T16:13:02.000Z</updated>
-        <content type="html"><![CDATA[<p>又是无所事事的一天，明天一定要冲了，不然就完蛋了...</p>
+18.树人1<br>
+19.伊利斯3<br>
+20.赌怪6<br>
+21.雷诺4<br>
+22.女巴7<br>
+23.玛维2</p>
 ]]></content>
     </entry>
     <entry>
@@ -145,22 +160,6 @@
         <content type="html"><![CDATA[<p>这几天都是赶作业赶到很晚，都忘记了写日记，从今天开始尽量不忘，哈哈哈哈哈</p>
 <p>周董的惊叹号这张专辑实在是太难听了</p>
 <p>story课终于参与进去了，但是这个写故事的作业也太难了</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[酒馆战棋战绩记录2020.11.03]]></title>
-        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201103/</id>
-        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201103/">
-        </link>
-        <updated>2020-11-03T01:32:31.000Z</updated>
-        <content type="html"><![CDATA[<p>欧服<br>
-起始分数:7788<br>
-1.女巴8 整活不死吃了<br>
-2.玛维1 天降大任与斯人也(+90)<br>
-3.冰龙8 你妹的(-100)<br>
-4.阿凯4 五本元素(+14)<br>
-5.女巴8 草你妈，2.6%出局，80%多赢(-82)<br>
-6.玛维6 96双碰六(-42)</p>
 ]]></content>
     </entry>
 </feed>
