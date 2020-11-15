@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onioncinema.github.io/</id>
     <title>葵</title>
-    <updated>2020-11-14T01:59:25.495Z</updated>
+    <updated>2020-11-15T02:48:22.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onioncinema.github.io/"/>
     <link rel="self" href="https://onioncinema.github.io/atom.xml"/>
@@ -10,6 +10,31 @@
     <logo>https://onioncinema.github.io/images/avatar.png</logo>
     <icon>https://onioncinema.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 葵</rights>
+    <entry>
+        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.11.14]]></title>
+        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201114/</id>
+        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201114/">
+        </link>
+        <updated>2020-11-13T20:14:09.000Z</updated>
+        <content type="html"><![CDATA[<p>欧服<br>
+6700<br>
+1.伊瑟拉1<br>
+2.奥拉基4<br>
+3.时光龙5<br>
+4.奥拉基3<br>
+5.雷诺5<br>
+6.雷诺6<br>
+7.玛维8<br>
+8.雷诺1<br>
+9.米尔豪斯2<br>
+10.玛维8<br>
+11.jk6<br>
+12.树人4<br>
+13.玛维3<br>
+14.暗月5<br>
+15.伊利斯6</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[酒馆战棋战绩记录 2020.11.12]]></title>
         <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201112/</id>
@@ -167,15 +192,6 @@
 10.姐夫1 掘金光牙(+97)<br>
 11.米尔豪斯6 弟弟11费糯米(-42)<br>
 12.托瓦戈尔女王1 第一次玩，真他妈强(+94)</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日记 2020.11.06]]></title>
-        <id>https://onioncinema.github.io/post/ri-ji-20201106/</id>
-        <link href="https://onioncinema.github.io/post/ri-ji-20201106/">
-        </link>
-        <updated>2020-11-06T14:13:38.000Z</updated>
-        <content type="html"><![CDATA[<p>今天打游戏，打游戏，打游戏，啥正事没干</p>
 ]]></content>
     </entry>
 </feed>
