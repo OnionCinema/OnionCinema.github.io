@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onioncinema.github.io/</id>
     <title>葵</title>
-    <updated>2020-11-15T02:48:22.639Z</updated>
+    <updated>2020-11-16T01:44:13.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onioncinema.github.io/"/>
     <link rel="self" href="https://onioncinema.github.io/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://onioncinema.github.io/images/avatar.png</logo>
     <icon>https://onioncinema.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 葵</rights>
+    <entry>
+        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.11.15]]></title>
+        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201115/</id>
+        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201115/">
+        </link>
+        <updated>2020-11-15T05:04:37.000Z</updated>
+        <content type="html"><![CDATA[<p>欧服<br>
+6645<br>
+1.伊利斯1<br>
+2.女巴7<br>
+3.jk1<br>
+4.冰龙1<br>
+5.拉法姆2<br>
+6.大螺丝5<br>
+7.大螺丝8<br>
+8.</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[酒馆战棋战绩记录 2020.11.14]]></title>
         <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201114/</id>
@@ -170,28 +188,6 @@
 21.雷诺4<br>
 22.女巴7<br>
 23.玛维2</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.11.07]]></title>
-        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201107/</id>
-        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201107/">
-        </link>
-        <updated>2020-11-07T01:00:22.000Z</updated>
-        <content type="html"><![CDATA[<p>欧服<br>
-起始分数:7409<br>
-1.小猪3 人气小龙杂，团好到爆炸(+41)<br>
-2.菌菇7 全员光牙，鱼也不发(-70)<br>
-3.女巴7 本该第一，我是傻逼<br>
-4.伊瑟拉7 你妈个逼，傻逼毒鱼(-69）<br>
-5.米尔豪斯6 豪斯整活，实在好活<br>
-6.女巴1 起手理财，弹融合怪(+98)<br>
-7.雷诺7 点金拉格，13出局(-88)<br>
-8.米尔豪斯4 烂分恶魔(+13)<br>
-9.女巴3 整活最强，湘西尸王<br>
-10.姐夫1 掘金光牙(+97)<br>
-11.米尔豪斯6 弟弟11费糯米(-42)<br>
-12.托瓦戈尔女王1 第一次玩，真他妈强(+94)</p>
 ]]></content>
     </entry>
 </feed>
