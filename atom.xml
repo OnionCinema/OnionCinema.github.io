@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onioncinema.github.io/</id>
     <title>葵</title>
-    <updated>2020-11-17T02:15:12.141Z</updated>
+    <updated>2020-11-24T20:53:50.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onioncinema.github.io/"/>
     <link rel="self" href="https://onioncinema.github.io/atom.xml"/>
@@ -10,6 +10,84 @@
     <logo>https://onioncinema.github.io/images/avatar.png</logo>
     <icon>https://onioncinema.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 葵</rights>
+    <entry>
+        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.11.24]]></title>
+        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201124/</id>
+        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201124/">
+        </link>
+        <updated>2020-11-23T21:06:50.000Z</updated>
+        <content type="html"><![CDATA[<p>国服<br>
+3070<br>
+1.苔丝6<br>
+2.拉法姆2<br>
+3.奥拉基8<br>
+4.jk2</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.11.23]]></title>
+        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201123/</id>
+        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201123/">
+        </link>
+        <updated>2020-11-23T04:13:36.000Z</updated>
+        <content type="html"><![CDATA[<p>国服<br>
+2770<br>
+1.拉法姆1</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.11.22]]></title>
+        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201122/</id>
+        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201122/">
+        </link>
+        <updated>2020-11-22T01:03:13.000Z</updated>
+        <content type="html"><![CDATA[<p>国服<br>
+2668<br>
+1.女巴4<br>
+2.</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.11.21]]></title>
+        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201121/</id>
+        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201121/">
+        </link>
+        <updated>2020-11-21T01:05:41.000Z</updated>
+        <content type="html"><![CDATA[<p>国服<br>
+1777<br>
+1.刮痧5<br>
+2.玛维2<br>
+3.jk2</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.11.18]]></title>
+        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201118/</id>
+        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201118/">
+        </link>
+        <updated>2020-11-17T11:42:36.000Z</updated>
+        <content type="html"><![CDATA[<p>国服<br>
+299<br>
+1.女巴1<br>
+2.jk3<br>
+3.玛维2<br>
+4.小猪2<br>
+5.巫妖王5<br>
+6.刮痧2</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.11.17]]></title>
+        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201117/</id>
+        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201117/">
+        </link>
+        <updated>2020-11-17T09:36:20.000Z</updated>
+        <content type="html"><![CDATA[<p>欧服<br>
+7020<br>
+1.伊利斯6<br>
+2.树人3</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[酒馆战棋战绩记录 2020.11.16]]></title>
         <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201116/</id>
@@ -81,99 +159,6 @@
         <content type="html"><![CDATA[<p>欧服<br>
 6581<br>
 1.伊利斯2</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.11.11]]></title>
-        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201111/</id>
-        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201111/">
-        </link>
-        <updated>2020-11-10T09:30:26.000Z</updated>
-        <content type="html"><![CDATA[<p>欧服<br>
-6992<br>
-1.玛维3<br>
-2.死亡之翼2<br>
-3.拉法姆3<br>
-4.树人6<br>
-5.螺丝8<br>
-6.拉法6<br>
-7.小猪8<br>
-8.螺丝8<br>
-9.女巴5<br>
-10.沙德沃克7<br>
-11.苔丝8<br>
-12.冰龙3<br>
-13.jk5</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.11.10]]></title>
-        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201110/</id>
-        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201110/">
-        </link>
-        <updated>2020-11-10T06:10:04.000Z</updated>
-        <content type="html"><![CDATA[<p>欧服<br>
-7089<br>
-1.冰龙6<br>
-2.伊利斯5<br>
-3.雷诺7<br>
-4.乔治1<br>
-5.马脸6<br>
-6.豪斯4</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日记 2020.11.09]]></title>
-        <id>https://onioncinema.github.io/post/ri-ji-20201109/</id>
-        <link href="https://onioncinema.github.io/post/ri-ji-20201109/">
-        </link>
-        <updated>2020-11-09T15:00:31.000Z</updated>
-        <content type="html"><![CDATA[<p>今天也是无所事事的一天，但我希望能有些改变。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[酒馆战棋战绩记录 2020.11.09]]></title>
-        <id>https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201109/</id>
-        <link href="https://onioncinema.github.io/post/jiu-guan-zhan-qi-zhan-ji-ji-lu-20201109/">
-        </link>
-        <updated>2020-11-08T18:24:25.000Z</updated>
-        <content type="html"><![CDATA[<p>欧服<br>
-6944<br>
-1.女王4<br>
-2.jk6<br>
-3.女巴7<br>
-4.豪斯7<br>
-5.女巴1<br>
-6.树人1<br>
-7.拉法姆1<br>
-8.大王6<br>
-9.树人7<br>
-10.玛维8<br>
-11.女王2<br>
-12.豪斯4<br>
-13.沙德沃克8<br>
-14.大王3<br>
-15.女王5<br>
-16.苔丝2</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日记 2020.11.08]]></title>
-        <id>https://onioncinema.github.io/post/ri-ji-20201108/</id>
-        <link href="https://onioncinema.github.io/post/ri-ji-20201108/">
-        </link>
-        <updated>2020-11-08T14:30:07.000Z</updated>
-        <content type="html"><![CDATA[<p>孤独，孤独，还是孤独，当身边一无所有，唯一拥有的只有回忆。<br>
-痛苦，痛苦，还是痛苦，当回忆起过去的美好，当下的现实是如此的苍白。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日记 2020.11.07]]></title>
-        <id>https://onioncinema.github.io/post/ri-ji-20201107/</id>
-        <link href="https://onioncinema.github.io/post/ri-ji-20201107/">
-        </link>
-        <updated>2020-11-07T16:13:02.000Z</updated>
-        <content type="html"><![CDATA[<p>又是无所事事的一天，明天一定要冲了，不然就完蛋了...</p>
 ]]></content>
     </entry>
 </feed>
