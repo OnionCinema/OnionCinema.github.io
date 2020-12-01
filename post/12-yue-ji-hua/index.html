@@ -25,7 +25,7 @@
 
   </head>
   <body>
-    <div class="main px-4 flex flex-col lg:flex-row">
+    <div id="app" class="main px-4 flex flex-col lg:flex-row">
       <div id="sidebar" class="sidebar-wrapper lg:static lg:w-1/4">
   <div class="lg:sticky top-0">
     <div class="sidebar-content">
@@ -39,49 +39,9 @@
       
         <div class="animated fadeInLeft" style="animation-delay: 0.4s">
           <p class="my-4 text-gray-600 font-light hidden lg:block">
-            学着做一个温柔的机器人。
+            文章目录
           </p>
-          <div class="animated fadeInLeft social-container hidden lg:block" style="animation-delay: 0.6s">
-            
-              
-                <a href="https://github.com/OnionCinema" target="_blank" class="mr-4 text-xl text-gray-400 font-light hover:text-gray-900">
-                  <i class="ri-github-line"></i>
-                </a>
-              
-            
-              
-                <a href="https://twitter.com/OnionCinema" target="_blank" class="mr-4 text-xl text-gray-400 font-light hover:text-gray-900">
-                  <i class="ri-twitter-line"></i>
-                </a>
-              
-            
-              
-                <a href="https://www.weibo.com/5495230468/profile?rightmod=1&amp;wvr=6&amp;mod=personinfo" target="_blank" class="mr-4 text-xl text-gray-400 font-light hover:text-gray-900">
-                  <i class="ri-weibo-line"></i>
-                </a>
-              
-            
-              
-                <a href="https://www.zhihu.com/people/wdx-olsen" target="_blank" class="mr-4 text-xl text-gray-400 font-light hover:text-gray-900">
-                  <i class="ri-zhihu-line"></i>
-                </a>
-              
-            
-              
-            
-              
-            
-              
-            
-              
-                <a href="https://www.instagram.com/onioncinema233/" target="_blank" class="mr-4 text-xl text-gray-400 font-light hover:text-gray-900">
-                  <i class="ri-instagram-line"></i>
-                </a>
-              
-            
-              
-            
-              
+          <div class="toc-container hidden lg:block">
             
           </div>
         </div>
@@ -120,25 +80,16 @@
 </div>
 <div class="mask" onclick="closeMenu()">
 </div>
-      <div class="content-wrapper py-32 lg:p-8 lg:w-3/4">
-        <h2 class="latest-article text-lg text-gray-700 mb-8">
-          <i class="ri-article-line"></i>
-          最新文章
-        </h2>
-        
-  <section class="post-item md:flex pb-12 animated fadeIn" :style="{ 'animation-delay': `${0 * 0.2}s` }">
-    
-      <a href="https://onioncinema.github.io/post/12-yue-ji-hua/" class="feature-image-wrapper bg-gray-100 rounded-lg flex-shrink-0 mr-8 w-full h-56 h-32 md:w-56 md:h-40">
-        <div class="post-feature-image lazy w-full h-56 h-32 md:w-56 md:h-40" data-bg="'https://onioncinema.github.io//post-images/12-yue-ji-hua.jpg'">
+      <div class="content-wrapper py-32 lg:p-8 lg:w-3/4 post-detail animated fadeIn">
+        <h1 class="text-3xl font-bold lg:mt-16">12月计划</h1>
+        <div class="text-sm text-gray-700 lg:my-8">
+          2020-11-30 / 2 min read
         </div>
-      </a>
-    
-    <div class="content">
-      <a href="https://onioncinema.github.io/post/12-yue-ji-hua/">
-        <h2 class="post-title text-xl font-extrabold mt-5 md:mt-0">12月计划</h2>
-      </a>
-      <div class="post-abstract text-gray-700 font-light my-4">
-        <p>观影：</p>
+        
+          <img class="post-feature-image rounded-lg mx-auto my-4" src="https://onioncinema.github.io//post-images/12-yue-ji-hua.jpg" alt="">
+        
+        <div class="post-content yue">
+          <p>观影：</p>
 <ol>
 <li>诗 시 (2010)</li>
 <li>饮食男女 飲食男女 (1994)</li>
@@ -171,35 +122,48 @@
 <li>横道世之介 (2013)</li>
 <li>Jose与虎与鱼们 ジョゼと虎と魚たち (2003)</li>
 </ol>
+<!-- more -->
+<p>剧（闲着没事就看）：</p>
+<ol>
+<li>后翼弃兵 The Queen's Gambit (2020)</li>
+<li>到了30岁还是处男，似乎会变成魔法师 30歳まで童貞だと魔法使いになれるらしい (2020)</li>
+<li>无所作为 The Undoing (2020)</li>
+<li>亢奋 第一季 Euphoria Season 1 (2019)---已经看了一半了</li>
+</ol>
+<!-- more -->
+<p>阅读：</p>
+<ol>
+<li>《坟场之书》---就剩一章了...</li>
+<li>《人生海海》</li>
+<li>《半泽直树1-4》</li>
+</ol>
 
-      </div>
-      <div class="text-gray-400 text-sm font-light">2020-11-30 / 2 min read</div>
-    </div>
-  </section>
+        </div>
 
-  <section class="post-item md:flex pb-12 animated fadeIn" :style="{ 'animation-delay': `${1 * 0.2}s` }">
-    
-    <div class="content">
-      <a href="https://onioncinema.github.io/post/zi-mu-geng-xin-ri-zhi-geng-xin-zhi-2020-03-29/">
-        <h2 class="post-title text-xl font-extrabold mt-5 md:mt-0">字幕更新日志（更新至2020-03-29）</h2>
-      </a>
-      <div class="post-abstract text-gray-700 font-light my-4">
         
-      </div>
-      <div class="text-gray-400 text-sm font-light">2020-03-28 / 1 min read</div>
-    </div>
-  </section>
+          <a class="animated fadeInUp p-2 items-center text-sm text-gray-700 border hover:bg-gray-300 leading-none rounded-full flex lg:inline-flex m-4 " href="https://onioncinema.github.io/tag/NGa4mye7Q/">
+            <span class="flex-auto">计划</span>
+          </a>
+        
 
-        <div class="read-more">
+
+        <div class="flex justify-between py-8">
+          
+
+          
+            <div class="next-post">
+              <a href="https://onioncinema.github.io/post/zi-mu-geng-xin-ri-zhi-geng-xin-zhi-2020-03-29/">
+                <h3 class="post-title">
+                  字幕更新日志（更新至2020-03-29）
+                  <i class="ri-arrow-right-line"></i>
+                </h3>
+              </a>
+            </div>
           
         </div>
-        <div class="index-page">
-          <div class="pagination-container animated fadeIn">
-  
-  
-</div>
 
-        </div>
+        
+
       </div>
     </div>
 
