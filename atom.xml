@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onioncinema.github.io/</id>
     <title>葵</title>
-    <updated>2021-02-04T20:13:57.830Z</updated>
+    <updated>2021-05-25T19:10:41.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onioncinema.github.io/"/>
     <link rel="self" href="https://onioncinema.github.io/atom.xml"/>
@@ -11,11 +11,24 @@
     <icon>https://onioncinema.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 葵</rights>
     <entry>
+        <title type="html"><![CDATA[随笔 2021.05.25]]></title>
+        <id>https://onioncinema.github.io/post/sui-bi-20210525/</id>
+        <link href="https://onioncinema.github.io/post/sui-bi-20210525/">
+        </link>
+        <updated>2021-05-25T05:01:56.000Z</updated>
+        <content type="html"><![CDATA[<p>乐极生悲的事，总是会发生在我身上。<br>
+明明昨天还觉得过的很幸福，今天却又受到命运的暴击。说是命运的暴击，但其实都是自己作的，我没有资格整天抱怨自己很倒霉，因为我真的没有努力去改善过现在的处境，每次都要将自己放在绝境之中才会开始反思，每当开始反思，过去一切的痛苦又都会袭来。<br>
+既然觉得后悔，那为什么要一次又一次犯错？<br>
+耗费精力，耗费资源，也没有好处的事，我为何要做那么多次。欺骗着自己，得到逃避一时的快感，却坠入无限纠结，痛苦的深渊。</p>
+<p>这次的后果，就让我一个人来承担。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[随笔 2021.02.04]]></title>
         <id>https://onioncinema.github.io/post/sui-bi-20210204/</id>
         <link href="https://onioncinema.github.io/post/sui-bi-20210204/">
         </link>
-        <updated>2021-02-04T11:50:30.000Z</updated>
+        <updated>2021-02-03T19:50:30.000Z</updated>
         <content type="html"><![CDATA[<p>忽然意识到自己已经好久没有更新博客，在20年底时就计划着要经营一下自己的博客，例如写写随笔，发发牢骚什么的。但是我就这么一天一天，一周一周，一月一月的想着，就这么给忘了，直到今天忽然想起来。</p>
 <p>最近发觉自己有些消沉，事情总是喜欢拖，不像我初中的时候，每天虽然会拖一拖，但到最后所有的事都会做完。然而到了现在，可能是懒散惯了，也可能是国外的教育体制原因，哪怕要做的任务，要做的事没有完成，我都不会感到愧疚。也许心底有一丝丝正面的想法（不能拖延，不能睡觉，完成要做的再去打游戏），但理智最后总是战胜不了我那颗贪玩的心。</p>
 <p>既然写了出来，就希望我能改变些吧。</p>
@@ -24,11 +37,11 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[12月计划]]></title>
+        <title type="html"><![CDATA[12月观影计划]]></title>
         <id>https://onioncinema.github.io/post/12-yue-ji-hua/</id>
         <link href="https://onioncinema.github.io/post/12-yue-ji-hua/">
         </link>
-        <updated>2020-11-28T04:13:28.000Z</updated>
+        <updated>2020-11-27T12:13:28.000Z</updated>
         <summary type="html"><![CDATA[<p>观影：</p>
 <ol>
 <li>诗 시 (2010)✅</li>
@@ -118,7 +131,7 @@
         <id>https://onioncinema.github.io/post/zi-mu-geng-xin-ri-zhi-geng-xin-zhi-2020-03-29/</id>
         <link href="https://onioncinema.github.io/post/zi-mu-geng-xin-ri-zhi-geng-xin-zhi-2020-03-29/">
         </link>
-        <updated>2020-03-28T13:10:04.000Z</updated>
+        <updated>2020-03-28T05:10:04.000Z</updated>
         <content type="html"><![CDATA[<p>1.0<br>
 字体：仿宋 字号：40</p>
 <p>字幕更新1.1版本：<br>
