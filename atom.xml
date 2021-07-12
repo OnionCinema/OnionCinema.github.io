@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onioncinema.github.io/</id>
     <title>葵</title>
-    <updated>2021-05-25T19:11:08.903Z</updated>
+    <updated>2021-07-12T11:17:09.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://onioncinema.github.io/"/>
     <link rel="self" href="https://onioncinema.github.io/atom.xml"/>
@@ -141,9 +141,11 @@
 <p>字幕更新1.3版本：<br>
 字幕字号改为40 垂直高度改为40<br>
 添加绿色注释字幕</p>
-<p>字母更新1.41版本：<br>
+<p>字幕更新1.41版本：<br>
 字幕字号改为45 并加粗<br>
 注释字幕改为等线 粗体 斜体 下划线 字号为30号 并置顶</p>
+<p>字幕更新1.5版本：<br>
+字体改为幼圆</p>
 ]]></content>
     </entry>
 </feed>
